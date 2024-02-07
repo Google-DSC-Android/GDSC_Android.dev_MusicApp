@@ -1,5 +1,5 @@
 
-![GDSC Android dev  Bootcamp'24 Vertical color](https://github.com/Aditys018/GDSC_ADB_BustinGieber/assets/100122761/a60a69c4-662b-4057-97d7-c387be68609a)
+![GDSC Android dev  Bootcamp'24 Vertical color](https://github.com/Aditys018/GDSC_ADB_BustinGieber/assets/100122761/07e20cd9-b639-47c8-9817-7cf08e915313)
 
 BustinGieber is a Music Streaming Android Application which we are going to develope in this year's GDSC Android Development Bootcamp.
 I have created this repo for improving your UNDERSTANDING of this project.

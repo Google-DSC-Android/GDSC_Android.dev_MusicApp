@@ -181,7 +181,7 @@ Implement Members after that it will create 3  members i.e onCreateViewHolder, g
 
 After that we will be creating our dsign file go to Drwable>Layout>right click >Layout resource file > name it as each_item
 
-Here we will be dsigning the UI Part for our application you can refer the code here: (linklinklink)
+Here we will be dsigning the UI Part for our application you can refer the code here: https://github.com/Aditys018/GDSC_Android.dev_MusicApp/tree/master/app/src/main/res/layout
 
 now again come back to myAdapter class we will write the code for myViewHolder class we will create variables for the cardview and initialize the variables
 ```Kotlin

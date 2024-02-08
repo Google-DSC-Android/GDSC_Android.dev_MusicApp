@@ -1,9 +1,9 @@
 
 ![GDSC Android dev  Bootcamp'24 Vertical color](https://github.com/Aditys018/GDSC_ADB_BustinGieber/assets/100122761/07e20cd9-b639-47c8-9817-7cf08e915313)
 
-BustinGieber is a Music Streaming Android Application which we are going to develope in this year's GDSC Android Development Bootcamp.
-I have created this repo for improving your UNDERSTANDING of this project.
-Step by step approach for this entire application is provided in this doc.
+# BustinGieber is a Music Streaming Android Application which we are going to develop in this year's GDSC Android Development Bootcamp.
+# I have created this repo for improving your UNDERSTANDING of this project.
+# Step by step approach for this entire application is provided in this doc.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -35,7 +35,7 @@ Give the following Commands
 | git init  | Initialize Empty Git Repository |
 |  git add .  |  Add files to git |
 | git commit -m "initial commit"  | Commit your changes |
-|  git remote add origin (repo URL)  |  Add GitHub as remote  |
+|  git remote add origin (repo. URL)  |  Add GitHub as remote  |
 | git push -u origin master| Push your changes |
 
 

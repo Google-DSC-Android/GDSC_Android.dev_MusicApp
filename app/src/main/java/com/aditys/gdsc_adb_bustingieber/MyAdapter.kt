@@ -2,7 +2,6 @@ package com.aditys.gdsc_adb_bustingieber
 
 import android.app.Activity
 import android.media.MediaPlayer
-import android.provider.ContactsContract
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -15,7 +14,7 @@ import com.squareup.picasso.Picasso
 
 
 
-class MyAdapter(val context:Activity, val dataList: List<ContactsContract.Contacts.Data>):
+class MyAdapter(val context:Activity, val dataList: List<Data>):
     RecyclerView.Adapter<MyAdapter.MyViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {

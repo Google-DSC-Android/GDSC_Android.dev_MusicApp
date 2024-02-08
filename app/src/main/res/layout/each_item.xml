@@ -49,6 +49,7 @@
                 android:layout_marginRight="8sp"
                 android:layout_weight="1"
                 android:backgroundTint="#5b9179"
+                android:contentDescription="Play"
                 android:src="@android:drawable/ic_media_play" />
 
             <androidx.appcompat.widget.AppCompatImageButton
@@ -57,6 +58,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="50sp"
                 android:layout_marginRight="60sp"
+                android:contentDescription="Pause"
                 android:layout_weight="1"
                 android:backgroundTint="#5b9179"
                 android:src="@android:drawable/ic_media_pause" />

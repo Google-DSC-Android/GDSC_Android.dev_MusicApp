@@ -255,15 +255,11 @@ CONGRATULATIONS YOUR APPLICATION IS FINALLY CREATED
 
 
 
+ # final functional output which will play music from the deezer API
+
  
+ ![Music](https://github.com/Google-DSC-Android/GDSC_Android.dev_MusicApp/assets/100122761/2bbfff40-4849-471a-9b6e-61c7e2d69211)
 
-
-
-
-
-
-
-          
 
 
 
